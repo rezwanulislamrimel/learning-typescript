@@ -20,3 +20,5 @@ The goal of this project is to transition from JavaScript to TypeScript and unde
 To compile and run any file, use:
 ```bash
 tsc filename.ts && node filename.js
+also config file and type tsc to run
+to avoid repeated commands to run **type tsc -w** to watch 
