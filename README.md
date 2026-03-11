@@ -14,7 +14,7 @@ The goal of this project is to transition from JavaScript to TypeScript and unde
 ## 🛠️ Tech Stack
 - **Language:** TypeScript
 - **Environment:** Node.js
-- **Compiler:** TSC (TypeScript Compiler)
+- **Compiler:** TSC (TypeScript Compiler) vs code
 
 ## ✍️ How to Run
 To compile and run any file, use:
